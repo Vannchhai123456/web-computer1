@@ -2101,7 +2101,7 @@ body{
         padding-top: 20px;
     }
     .menu2 ul li a{
-        font-size: 15px;
+        font-size: 25px;
     }
     .slider{
         width: 1000px;
@@ -2116,12 +2116,11 @@ body{
         top: 260px;
     }
     .arrow_left i{
-        font-size: 30px;
         top: 30px;
         left: 100px;
         color: white;
         z-index: 97;
-        font-size: 50px;
+        font-size: 200px;
         opacity: 0.5;
     }
     .arrow_right{
@@ -2131,12 +2130,11 @@ body{
         /* background-color: black; */
     }
     .arrow_right i{
-        font-size: 30px;
         top: 30px;
-        margin-left: 640px;
+        margin-left: 600px;
         color: white;
         z-index: 97;
-        font-size: 50px;
+        font-size: 200px;
         opacity: 0.5;
         
     }
