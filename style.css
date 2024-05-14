@@ -2638,7 +2638,7 @@ body{
         width: 100%;
         overflow: hidden;
         /* float: left; */
-        /* background-color: red; */
+	 background-color: red;
         margin: 20px;
     }
     .footer .footer1 .category h1{
