@@ -655,6 +655,57 @@ body{
     height: 300px;
     background-color: white;
 }
+.footer .footer1{
+    width: 80%;
+    height: 200px;
+    /* background-color: pink; */
+    margin: auto;
+}
+.footer .footer1 .category{
+    width: 20%;
+    overflow: hidden;
+    float: left;
+    margin: 20px;
+}
+.footer .footer1 .category h1{
+    padding-left: 35px;
+    margin: 0%;
+}
+.footer .footer1 .category p{
+    margin: 5px;
+    font-size: 20px;
+    padding-left: 30px;
+    letter-spacing:1px;
+}
+.footer .footer1 .category img{
+    width: 150px;
+    float: right;
+    margin-top: 50px;
+}
+.footer .footer1 .category UL{
+    margin: 5px;
+}
+.footer .footer1 .category UL li{
+    list-style-type: none;
+    padding: 5px;
+}
+.footer .footer1 .category UL li a{
+    text-decoration: none;
+    color: black;
+}
+.footer .footer1 .category UL li a:hover{
+    color: red;
+}
+.footer .footer1 .category1{
+    float: left;
+    /* background-color: red; */
+    width: 30%;
+    height: 100px;
+}
+.footer .footer1 .category1 img{
+    width: 100%;
+    margin: 20px;
+}
     /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
 	.menu1{
