@@ -1294,14 +1294,14 @@ body{
     .slider{
         width: 100%;
        height: 700px;
-        background-color: pink;
+/*         background-color: pink; */
         position: absolute;
         left: -2000px;
     }
     .slider1{
         width: 100%;
         height: 700px;
-        background-color: pink;
+/*         background-color: pink; */
         position: absolute;
         top: 0;
     }
@@ -1324,7 +1324,7 @@ body{
     .product1{
         width: 47%;
         height: 240px;
-        background-color: red;
+/*         background-color: red; */
         float: left;
         margin: 10px;
         overflow: hidden;
@@ -2638,7 +2638,7 @@ body{
         width: 100%;
         overflow: hidden;
         /* float: left; */
-	 background-color: red;
+/* 	 background-color: red; */
         margin: 20px;
     }
     .footer .footer1 .category h1{
